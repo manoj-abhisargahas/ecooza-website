@@ -1,0 +1,28 @@
+Priority,Page Name,Section/Area,Image File Name,Folder Path,Width,Height,Max File Size,What to Show,Style Notes
+CRITICAL,Home,Hero Background,hero-background.jpg,/images/,1920,1080,500KB,Natural eco scene - bamboo forest or green leaves,Soft focus | Green/earth tones | Good for text overlay
+CRITICAL,Home,Why Choose Us,why-choose-us.jpg,/images/,1000,800,300KB,Team photo OR eco products in use OR office,Professional | Trustworthy | Happy atmosphere
+CRITICAL,Home,Categories,cutlery.jpg,/images/categories/,800,600,200KB,Bamboo/wooden forks spoons knives arranged,Clean white background | Product focus
+CRITICAL,Home,Categories,drinkware.jpg,/images/categories/,800,600,200KB,Reusable bottles | Bamboo cups | Metal straws,Natural lifestyle shot | Not plastic
+CRITICAL,Home,Categories,stationery.jpg,/images/categories/,800,600,200KB,Recycled notebooks | Bamboo pens | Desk items,Flat lay | Professional office
+CRITICAL,Home,Categories,bags.jpg,/images/categories/,800,600,200KB,Jute bags | Cotton tote bags,Model holding OR nice display
+CRITICAL,Home,Categories,packaging.jpg,/images/categories/,800,600,200KB,Biodegradable boxes | Bags | Wrapping,Clean organized display
+CRITICAL,Home,Categories,amenities.jpg,/images/categories/,800,600,200KB,Organic soaps | Bamboo toothbrush | Toiletries,Spa/hotel setting | Luxury feel
+CRITICAL,All Pages,Header & Footer,logo.png,/images/,300,80,N/A,ECO (green) + OZA (gold) + leaf design,Transparent background | Vector preferred
+HIGH,Products,Product Grid,bamboo-cutlery-set.jpg,/images/products/,800,800,200KB,6-piece bamboo cutlery set,Square format | White background | Clean
+HIGH,Products,Product Grid,wooden-spoons.jpg,/images/products/,800,800,200KB,Pack of 100 wooden dessert spoons,White background | Show quantity
+HIGH,Products,Product Grid,bamboo-forks.jpg,/images/products/,800,800,200KB,200 pack bamboo disposable forks,Clean minimal | Professional
+HIGH,Products,Product Grid,biodegradable-cutlery.jpg,/images/products/,800,800,200KB,Combo pack: forks knives spoons plant-based,Show eco-friendly | Green packaging
+HIGH,Products,Product Grid,wooden-knife-set.jpg,/images/products/,800,800,200KB,150 pack wooden disposable knives,Birch wood visible | Professional
+HIGH,Products,Product Grid,bamboo-stirrers.jpg,/images/products/,800,800,200KB,500 pack coffee stirrers bamboo,Bundle or stack | Minimal background
+HIGH,Gifting,Hero Image,corporate-gifts.jpg,/images/gifting/,800,600,250KB,Premium gift hampers beautifully arranged,Luxury presentation | High quality
+HIGH,Gifting,Collections,executive-hamper.jpg,/images/gifting/,800,600,250KB,High-end gift: bamboo desk items + organic tea,Premium | Luxury | Professional
+HIGH,Gifting,Collections,wellness-hamper.jpg,/images/gifting/,800,600,250KB,Spa products: skincare + aromatherapy + tea,Calming | Serene | Natural
+HIGH,Gifting,Collections,office-essentials.jpg,/images/gifting/,800,600,250KB,Office supplies: notebooks + pens + bottle,Clean | Organized | Professional
+HIGH,Gifting,Collections,festival-hamper.jpg,/images/gifting/,800,600,250KB,Festival box: diyas + dry fruits + chocolates,Festive | Traditional | Sustainable
+HIGH,Gifting,Collections,gourmet-hamper.jpg,/images/gifting/,800,600,250KB,Food items: organic coffee + tea + chocolates,Luxury | Gourmet | Rich presentation
+HIGH,Gifting,Collections,new-joiner.jpg,/images/gifting/,800,600,250KB,Welcome kit: branded stationery + mug + bag,Corporate | Welcoming | Professional
+HIGH,Gifting,Branding,branding-example1.jpg,/images/gifting/,600,600,150KB,Product with custom logo printed clearly,Show logo placement | Professional mockup
+HIGH,Gifting,Branding,branding-example2.jpg,/images/gifting/,600,600,150KB,Custom branded packaging gift box,Show branding capability | Sample company
+HIGH,About,Our Story,our-story.jpg,/images/about/,1000,800,300KB,Team OR founder OR office with eco products,Warm | Welcoming | Company culture
+MEDIUM,Solutions,Overview,hotel-lobby.jpg,/images/solutions/,1000,800,300KB,Luxury hotel lobby or reception,Premium | Elegant | Sustainable design
+MEDIUM,Sustainability,Approach,approach.jpg,/images/sustainability/,1000,800,300KB,Nature: forest OR planting tree OR recycling,Inspiring | Environmental | Protection
